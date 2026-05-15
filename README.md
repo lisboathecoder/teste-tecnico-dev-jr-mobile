@@ -153,8 +153,6 @@ Nome do aluno
 3. Ao finalizar, envie as seguintes informações:
 
 ```
-Nome:
-Turma:
 Link do seu repositório forkado no GitHub:
 ```
 
